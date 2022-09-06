@@ -10,7 +10,9 @@
     padding: 0;
 }
 body{
-    font-family: sans-serif;    
+    font-family: sans-serif;
+    background: rgb(25,12,105);
+    background: linear-gradient(90deg, rgba(25,12,105,1) 21%, rgba(56,9,121,1) 51%, rgba(55,0,255,1) 95%);  
 }
 
 .container{

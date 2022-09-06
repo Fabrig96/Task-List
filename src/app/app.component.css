@@ -1,0 +1,10 @@
+.container {
+    background-color: blueviolet;
+    border: 1px solid #00cc00; /* Color del borde, debe ser más claro que fondo */
+	
+	
+	border-radius: 6px;  /* Bordes redondos */
+	box-shadow:inset 2px 2px 8px rgba(120, 120, 120, .4), inset -3px -3px 3px rgba(255,255,255,.4);
+	text-shadow: 1px 1px rgba(0,0,0,.3);  /* Sombra del texto */
+	text-align: center;  /* Alineación del texto */
+}
